@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Score Keeper App</string>
+    <string name="blue">Blue</string>
+    <string name="red">Red</string>
+    <string name="scorePlayer">Score</string>
+    <string name="jab">Jab</string>
+    <string name="hook">Hook</string>
+    <string name="lowerRoundhouseKick">Lower Roundhouse Kick</string>
+    <string name="upperRoundhouseKick">Upper Roundhouse Kick</string>
+    <string name="projection">Projection</string>
+    <string name="reset">Reset</string>
+
+</resources>
